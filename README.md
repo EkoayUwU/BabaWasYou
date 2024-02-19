@@ -25,13 +25,20 @@ Ce jeu force à réfléchir aux différentes règles misent en place par le dev 
 Expliquez comment ces règles fonctionnent.
 
 L'association suit la logique "Nom de l'acteur -> IS/AND -> Conséquence (Etat(STOP/YOU/etc) et/ou autre acteur(WALL/CRAB))
+On renseigne d'abords les différents acteur concernés grâce aux blocks de texte et au block "AND", puis "IS", et enfin, la conséquence comme un changement d'état, de propriété ou de mesh (ex: Baba Is Wall).
+
 
 5. Vu le nombre de combinaisons possibles, d’après vous, comment le développeur
 a-t-il fait pour obtenir un tel résultat ? Expliquez en termes techniques (pseudo-code,
 algorithmes, type de données, modifications du gameplay…) comment vous auriez
 mis en place une telle mécanique de gameplay.
 
+
 6. Personnel : le jeu vous a-t-il plu ? Pourquoi ?
+Jeu intéressant, demandant rapidement de plus en plus de réflexion et d'itération pour résoudre les énigmes. 
+Challengeant comme il faut, puis côté sympa de se rendre compte que la solution était "simple" ou facile à trouver alors que tu es sur le niveau depuis 10-20min. 
+
+
 
 Pratique :
 1. Définissez, selon vous, la mécanique de gameplay principale du jeu, et reproduisez
