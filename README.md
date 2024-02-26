@@ -33,6 +33,9 @@ a-t-il fait pour obtenir un tel résultat ? Expliquez en termes techniques (pseu
 algorithmes, type de données, modifications du gameplay…) comment vous auriez
 mis en place une telle mécanique de gameplay.
 
+Je pense que le dev a utilisé des gameplays tags pour les différents états/propriétés présent(e)s dans le jeu (PUSH/WIN/etc) permettant ainsi de couvrir plusieurs états à la fois.
+Pour le "changement d'objets", une énumération de string permettrai de définir le mesh, étant donné que l'acteur n'a qu'un mesh à la fois.
+
 
 6. Personnel : le jeu vous a-t-il plu ? Pourquoi ?
 Jeu intéressant, demandant rapidement de plus en plus de réflexion et d'itération pour résoudre les énigmes. 
@@ -44,6 +47,8 @@ Pratique :
 1. Définissez, selon vous, la mécanique de gameplay principale du jeu, et reproduisez
 là sous le moteur de jeu de votre choix (vous pouvez faire cette mécanique sur un
 projet en 2D ou 3D).
+
+D'après moi, la méca principale serait le changement de propriétés des acteurs lorsque le joueur intéragi avec les différents blocs du niveau
 
 2. Décrivez, étape par étape, comment vous avez mis en place cette mécanique.
 
