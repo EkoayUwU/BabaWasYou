@@ -52,6 +52,8 @@ projet en 2D ou 3D).
 D'après moi, la méca principale serait le changement de propriétés des acteurs lorsque le joueur intéragi avec les différents blocs du niveau
 
 2. Décrivez, étape par étape, comment vous avez mis en place cette mécanique.
+Utilisation d'Enumeration pour les Mots, Operateurs et Règle
+L'opérateur check en haut et en bas si un Mot et une Règle si trouve, puis de gauche à droite. Si le résultat est concluant, les tags s'ajoutent aux objets concernés, sinon il les retirent à l'aide de réference créer lors de l'ajout des tags
 
 3. Expliquez en quoi cette mécanique est primordiale tout au long du jeu.
 
