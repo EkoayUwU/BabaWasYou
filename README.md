@@ -7,6 +7,7 @@ Ce jeu est de type Puzzle/Réflexion en solo.
 
 2. Après une heure de jeu, nommez les différentes mécaniques de gameplay
 rencontrées.
+
    1- Déplacement (WQSD)
    2- Possibilité de pousser certains éléments de l'environnement.
    3- Recommencer le niveau (R)
@@ -14,10 +15,11 @@ rencontrées.
    5- Possiblité de prendre le contrôle des éléments du jeu (Rock/Crab/Flag/Wall/Key/etc)
    6- Modifier l'état et les propriétés (YOU/WIN/PUSH/DEFEAT/STOP/OPEN/SHUT/etc) des éléments du jeu à l'aide des block "texte" (BABA/WALL/CRAB/FLAG/ROCK/DOOR/IS/AND)
 
-3. Ce jeu est considéré comme un jeu fait pour des développeurs, expliquez en quoi.
+4. Ce jeu est considéré comme un jeu fait pour des développeurs, expliquez en quoi.
+   
 Ce jeu force à réfléchir aux différentes règles misent en place par le dev et comment les utiliser pour réussir le niveau
 
-4. L’association des mots se font selon certaines règles :
+5. L’association des mots se font selon certaines règles :
 “Baba Is Wall” -> valide /
 “Wall Is You” -> valide /
 “You Is Baba” -> non valide /
